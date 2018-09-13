@@ -1,0 +1,8 @@
+{
+    "input": "/import/H-H1_LOSC_16_V1-1126076416-4096.gwf",
+    "output":"/export/data.pkl",
+    "channel": "H1:GWOSC-16KHZ_R1_STRAIN",
+    "gps_start_time":1126076416,
+    "len_seconds":1.0
+}
+  
